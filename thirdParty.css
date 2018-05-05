@@ -1,0 +1,16 @@
+/* external css */
+
+body {
+    margin: 0px;
+    padding: 10px;
+	font-family: Verdana, Verdana, Arial, Helvetica, sans-serif;
+    background-color: red;
+}
+
+header.main {
+    background-color: red;
+}
+
+header h1.title {
+    color: blue;
+}
